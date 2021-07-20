@@ -1,0 +1,19 @@
+#box1 {
+    background-color: #3c204c;
+    padding: 30px;
+    border: 20px soild orange;
+    margin: 10px
+}
+
+#box2 {
+    background-color: #434172;
+    margin: 40px;
+}
+
+.wrapper {
+    background-color: rgb(243, 243, 243);
+    margin: 40px;
+}
+.wrapper {
+    display: flex;
+}

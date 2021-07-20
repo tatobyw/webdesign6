@@ -1,0 +1,16 @@
+#box1 {
+    background-color: rgb(229, 222, 238);
+    width: 300px;
+    padding: 30px;
+    border: 10px solid rgb(144, 97, 156);
+}
+    /*width = tital size */
+    /* (300px - 60 -20) */
+    /* 220px + 60px +20px = 300px */
+#box2 {
+    background-color: rgba(9, 9, 211, 0.801);
+    width:300px ;
+    padding:30px ;
+    border: 10px solid rgb(0, 0, 114) ;
+    box-sizing: border-box;
+}
